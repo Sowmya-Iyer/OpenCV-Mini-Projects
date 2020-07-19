@@ -6,4 +6,4 @@ This is a mini project that uses
 
 You can also take a snap shot of the frame by hitting Space!
 
-![](Sketch-Me.gif)
+![](Sketch-me/Sketch-me.gif)
